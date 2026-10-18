@@ -3,8 +3,8 @@
 
 Summary:	Virtual keyboard for Plasma
 Name:		plasma-keyboard
-Version:	6.7.5
-Release:	2
+Version:	6.8.0
+Release:	1
 License:	LGPLv2+
 Group:		Graphical desktop/KDE
 URL:		https://invent.kde.org/plasma/plasma-keyboard
