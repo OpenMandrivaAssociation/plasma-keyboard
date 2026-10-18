@@ -45,6 +45,7 @@ with Plasma via the Wayland input-method-v1 protocol.
 %{_datadir}/applications/kcm_plasmakeyboard.desktop
 %{_datadir}/metainfo/org.kde.plasma.keyboard.metainfo.xml
 %{_datadir}/plasma/keyboard
+%{_datadir}/config.kcfg/plasmakeyboardsettings.kcfg
 %{_qtdir}/qml/org/kde/plasma/keyboard
 %{_qtdir}/qml/QtQuick/VirtualKeyboard
 %{_qtdir}/plugins/plasma/kcms/systemsettings/kcm_plasmakeyboard.so
